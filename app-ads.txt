@@ -5,6 +5,7 @@ google.com, pub-1969096339266802, DIRECT, f08c47fec0942fa0
 
 #facebook
 facebook.com, 437887862336720, RESELLER, c3e20eee3f780d68
+facebook.com, 437887862336720, DIRECT, c3e20eee3f780d68
 
 #BigoAds
 bold-win.com, 1117, RESELLER, 71746737d0bab951
